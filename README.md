@@ -14,6 +14,7 @@ This repo is my final project for the **AI Product Management Certification**. E
 
 ### M1 · Prompting
 - **Skill file**, [`01-prompting/skill-file.md`](01-prompting/skill-file.md)
+- **Strategic Discovery Map**, [`01-prompting/strategic-discovery-map.md`](01-prompting/strategic-discovery-map.md). Reflection responses.
 
 ### M2 · Prototype
 - **Prototype**, [`02-prototype/prototype.md`](02-prototype/prototype.md). Link, what it demonstrates, and debrief.
@@ -39,7 +40,8 @@ juno-pm/
 ├── README.md                          ← this overview
 ├── final-presentation.html            ← M6: final presentation, from the builder
 ├── 01-prompting/
-│   └── skill-file.md                  ← M1: Juno's skill file (Role/Task/Constraints/Format)
+│   ├── skill-file.md                  ← M1: Juno's skill file (Role/Task/Constraints/Format)
+│   └── strategic-discovery-map.md     ← M1: Strategic Discovery Map reflections
 ├── 02-prototype/
 │   └── prototype.md                   ← M2: prototype link + debrief
 ├── 03-harness-prd/
